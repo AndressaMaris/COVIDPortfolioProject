@@ -25,8 +25,8 @@ This project aims to explore COVID-19 data using SQL. The dataset utilized for t
  - Insight Generation: Extract key metrics, trends, and patterns to understand the impact of COVID-19 on a global scale.
 
 
-#Usage Instructions
+## Usage Instructions
 
-Prerequisites: Ensure you have access to a SQL database management system (DBMS) such as MySQL, PostgreSQL, SQLite, etc.
-Execution: Run the SQL script 'Covid Portfolio Project SQL.sql' in your preferred SQL environment.
-Interpretation: Review the results of each query to understand the insights derived from the dataset.
+ - Prerequisites: Ensure you have access to a SQL database management system (DBMS) such as MySQL, PostgreSQL, SQLite, etc.
+ - Execution: Run the SQL script 'Covid Portfolio Project SQL.sql' in your preferred SQL environment.
+ - Interpretation: Review the results of each query to understand the insights derived from the dataset.
